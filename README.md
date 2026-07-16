@@ -38,6 +38,14 @@ We highly appreciate community contributions to polish the vocabulary and gramma
 
 ---
 
+## 📸 Screenshots 
+
+<img width="854" height="480" alt="2026-07-16_04 42 20" src="https://github.com/user-attachments/assets/6566976b-10d6-4316-b2f7-1f958da38afb" />
+
+<img width="854" height="480" alt="2026-07-16_04 42 35" src="https://github.com/user-attachments/assets/fdc77c22-c128-492a-828c-20c0b24505fa" />
+
+---
+
 ## 📝 Other Good Projects
 RealFantomPlay - [Interslavic Cyrillic Transliteration for Minecraft](https://github.com/realfantomplay/interslavic-minecraft-cyrillic)
 
