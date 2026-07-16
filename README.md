@@ -40,4 +40,5 @@ We highly appreciate community contributions to polish the vocabulary and gramma
 
 ## 📝 Other Good Projects
 RealFantomPlay - [Interslavic Cyrillic Transliteration for Minecraft](https://github.com)
+
 shchekotati - [Interslavic Translation For BTA!](https://github.com/shchekotati/Interslavic-Translation-For-BTA-)
